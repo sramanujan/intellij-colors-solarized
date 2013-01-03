@@ -42,6 +42,10 @@ for which the syntax highlighting has been adapted to the Solarized color scheme
 		<th>Language/Section</th>
 		<th>Supported</th>
 	</tr>
+        <tr>
+                <td>ActionScript</td>
+                <td align="center"><b>Yes</b></td>
+        </tr>
 	<tr>
 		<td>Android Logcat</td>
 		<td align="center"><b>Yes</b></td>
